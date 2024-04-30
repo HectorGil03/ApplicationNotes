@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hector.gil\\source\\repos\\applicationNotes\\applicationNotes\\applicationNotes.csproj": {}
+    "C:\\Users\\hector.gil\\Desktop\\applicationNotes\\applicationNotes\\applicationNotes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hector.gil\\source\\repos\\applicationNotes\\applicationNotes\\applicationNotes.csproj": {
+    "C:\\Users\\hector.gil\\Desktop\\applicationNotes\\applicationNotes\\applicationNotes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hector.gil\\source\\repos\\applicationNotes\\applicationNotes\\applicationNotes.csproj",
+        "projectUniqueName": "C:\\Users\\hector.gil\\Desktop\\applicationNotes\\applicationNotes\\applicationNotes.csproj",
         "projectName": "applicationNotes",
-        "projectPath": "C:\\Users\\hector.gil\\source\\repos\\applicationNotes\\applicationNotes\\applicationNotes.csproj",
+        "projectPath": "C:\\Users\\hector.gil\\Desktop\\applicationNotes\\applicationNotes\\applicationNotes.csproj",
         "packagesPath": "C:\\Users\\hector.gil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hector.gil\\source\\repos\\applicationNotes\\applicationNotes\\obj\\",
+        "outputPath": "C:\\Users\\hector.gil\\Desktop\\applicationNotes\\applicationNotes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hector.gil\\AppData\\Roaming\\NuGet\\NuGet.Config",
